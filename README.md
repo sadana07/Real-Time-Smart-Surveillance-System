@@ -28,11 +28,9 @@ Press `q` to quit the video window.
 
 | Component | Status |
 |---|---|
-| Person detection | ✅ Working (YOLOv8, pretrained) |
-| Age/Gender prediction | ✅ Working (DeepFace, pretrained) |
-| Animal name (dog/cat/cow/bird/etc.) | ✅ Working (YOLOv8 COCO classes) |
-| Indian-specific animals (monkey, mongoose, snake, peacock) | ⚠️ Needs fine-tuning — COCO doesn't include these |
-| Insect name | ⚠️ Stub — see `insect_classifier.py` for training steps (IP102 dataset) |
+| Person detection | Working (YOLOv8, pretrained) |
+| Gender prediction | Working (DeepFace, pretrained) |
+| Animal name (dog/cat/cow/bird/etc.) | Working (YOLOv8 COCO classes) |
 
 ## Next steps to make it resume-ready
 
