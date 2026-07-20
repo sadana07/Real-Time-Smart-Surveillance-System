@@ -1,9 +1,9 @@
 # CCTV Security AI
 
 Detects what's in front of a camera:
-- **Person** → predicts gender + approximate age
+- **Person** → predicts gender 
 - **Animal** (dog, cat, cow, bird, etc.) → predicts species name
-- **Insect** → predicts species name (stub, needs training — see below)
+
 
 ## Windows Setup (copy-paste)
 
