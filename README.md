@@ -23,15 +23,19 @@ python detector.py --source 0
 python detector.py --source path\to\video.mp4
 ```
 
-Press `q` to quit the video window.
+Press "q" to quit the video window.
 
 ## What's real vs. stub right now
 
 | Component | Status |
 |---|---|
-| Person detection | Working (YOLOv8, pretrained) |
-| Gender prediction | Working (DeepFace, pretrained) |
+| Person detection | Working (YOLOv8) |
+| Gender prediction | Working (DeepFace) |
 | Animal name (dog/cat/cow/bird/etc.) | Working (YOLOv8 COCO classes) |
 
-
+## Why it is useful
+- Real-time monitoring of people and vehicles.
+- Reduces the need for continuous manual CCTV observation.
+- Provides instant visual identification and analytics.
+- Can be extended with features like face recognition, intrusion detection, crowd analysis, or suspicious activity detection.
 
