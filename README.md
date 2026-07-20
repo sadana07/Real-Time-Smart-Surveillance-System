@@ -3,6 +3,7 @@
 Detects what's in front of a camera:
 - **Person** → predicts gender 
 - **Animal** (dog, cat, cow, bird, etc.) → predicts species name
+- **Vehicles** (car, motorcycle, truck, bus, etc.) → predicts vehicle common name
 
 
 ## Windows Setup (copy-paste)
