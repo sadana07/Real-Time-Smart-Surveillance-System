@@ -1,4 +1,4 @@
-# CCTV Security AI
+# Real Time Smart Surveillance System
 
 Detects what's in front of a camera:
 - **Person** → predicts gender 
